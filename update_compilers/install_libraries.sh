@@ -248,6 +248,7 @@ install_gnu_gsl_versioned_and_latest() {
 }
 
 #install_gnu_gsl_versioned_and_latest libs/gnu-gsl 2.3 2.4
+get_github_versioned_and_trunk libs/libcs50 cs50/libcs50 v9.0.1
 
 #########################
 # D
